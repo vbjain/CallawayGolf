@@ -7,3 +7,12 @@ C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstanda
 C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.AssemblyInfo.cs
 C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.dll
 C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.pdb
+E:\GitHub\vbjain\CallawayGolf\CallawayGolf\Demo.Common\bin\Debug\netstandard2.0\Demo.Common.deps.json
+E:\GitHub\vbjain\CallawayGolf\CallawayGolf\Demo.Common\bin\Debug\netstandard2.0\Demo.Common.dll
+E:\GitHub\vbjain\CallawayGolf\CallawayGolf\Demo.Common\bin\Debug\netstandard2.0\Demo.Common.pdb
+E:\GitHub\vbjain\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.csprojResolveAssemblyReference.cache
+E:\GitHub\vbjain\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.csproj.CoreCompileInputs.cache
+E:\GitHub\vbjain\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.AssemblyInfoInputs.cache
+E:\GitHub\vbjain\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.AssemblyInfo.cs
+E:\GitHub\vbjain\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.dll
+E:\GitHub\vbjain\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.pdb

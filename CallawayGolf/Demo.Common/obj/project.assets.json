@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\viral\\Desktop\\CallawayGolf\\CallawayGolf\\Demo.Common\\Demo.Common.csproj",
+      "projectUniqueName": "E:\\GitHub\\vbjain\\CallawayGolf\\CallawayGolf\\Demo.Common\\Demo.Common.csproj",
       "projectName": "Demo.Common",
-      "projectPath": "C:\\Users\\viral\\Desktop\\CallawayGolf\\CallawayGolf\\Demo.Common\\Demo.Common.csproj",
+      "projectPath": "E:\\GitHub\\vbjain\\CallawayGolf\\CallawayGolf\\Demo.Common\\Demo.Common.csproj",
       "packagesPath": "C:\\Users\\viral\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\viral\\Desktop\\CallawayGolf\\CallawayGolf\\Demo.Common\\obj\\",
+      "outputPath": "E:\\GitHub\\vbjain\\CallawayGolf\\CallawayGolf\\Demo.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

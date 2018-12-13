@@ -103,9 +103,9 @@ namespace Demo.CoreWeb.Controllers
 
             Parallel.ForEach(rootModel.Categories, c =>
             {
-                Parallel.ForEach(c.Models, m =>
+                Parallel.ForEach(c.Models, async m =>
                 {
-                    Demo.ExtraService.InventoryAssignService.Instance.RandomAssignInventory(m.Products);
+                    await Demo.ExtraService.InventoryAssignService.Instance.RandomAssignInventory(m.Products);
                 });
             });
 

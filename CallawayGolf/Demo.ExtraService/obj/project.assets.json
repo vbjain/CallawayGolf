@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\viral\\Desktop\\CallawayGolf\\CallawayGolf\\Demo.ExtraService\\Demo.ExtraService.csproj",
+      "projectUniqueName": "E:\\GitHub\\vbjain\\CallawayGolf\\CallawayGolf\\Demo.ExtraService\\Demo.ExtraService.csproj",
       "projectName": "Demo.ExtraService",
-      "projectPath": "C:\\Users\\viral\\Desktop\\CallawayGolf\\CallawayGolf\\Demo.ExtraService\\Demo.ExtraService.csproj",
+      "projectPath": "E:\\GitHub\\vbjain\\CallawayGolf\\CallawayGolf\\Demo.ExtraService\\Demo.ExtraService.csproj",
       "packagesPath": "C:\\Users\\viral\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\viral\\Desktop\\CallawayGolf\\CallawayGolf\\Demo.ExtraService\\obj\\",
+      "outputPath": "E:\\GitHub\\vbjain\\CallawayGolf\\CallawayGolf\\Demo.ExtraService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -221,8 +221,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\viral\\Desktop\\CallawayGolf\\CallawayGolf\\Demo.Common\\Demo.Common.csproj": {
-              "projectPath": "C:\\Users\\viral\\Desktop\\CallawayGolf\\CallawayGolf\\Demo.Common\\Demo.Common.csproj"
+            "E:\\GitHub\\vbjain\\CallawayGolf\\CallawayGolf\\Demo.Common\\Demo.Common.csproj": {
+              "projectPath": "E:\\GitHub\\vbjain\\CallawayGolf\\CallawayGolf\\Demo.Common\\Demo.Common.csproj"
             }
           }
         }
