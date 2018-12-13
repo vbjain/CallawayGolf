@@ -1,0 +1,83 @@
+﻿@model RootModel
+
+@{
+    ViewData["Title"] = "Golf Products";
+}
+
+<div class="row" style="background-color:palevioletred;max-height:50px;">
+    <div class="col-md-6">
+        <form asp-controller="Home" asp-action="UploadFile" method="post" enctype="multipart/form-data">
+            <div style="display:inline-flex;float:left;">
+                <input type="file" name="file" /><button type="submit">Upload Json</button>
+            </div>
+        </form>
+    </div>
+    <div class="col-md-6">
+        <form asp-controller="Home" asp-action="UploadFileInventory" method="post" enctype="multipart/form-data">
+            <div style="display:inline-flex;float:left;">
+                <input type="file" name="file" /><button type="submit">Upload Json with Extra Service</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div style="overflow-x:auto;display:inline-flex;float:left;background-color:lightcoral;" class="container-fluid">
+    @foreach(var category in Model.Categories)
+    {
+        <div style="height:120px;width:110px;">
+            <a href="#category@(category.Name.Replace(" ", ""))">
+                <img src="@(category.ImageUrl)" height="100" width="100" alt="Image Not Available" />
+                <span>@(category.Name)</span>
+            </a>
+        </div>
+    }
+</div>
+
+<div style="max-width:50%;">
+    @foreach (var category in Model.Categories)
+    {
+        <a name="category@(category.Name.Replace(" ", ""))"></a>
+        foreach (var mdl in category.Models)
+        {
+            <table class="table table-responsive table-bordered">
+                <tr>
+                    <th style="width:70%"><h4>@(mdl.Name)</h4></th>
+                    <th>Quantity</th>
+                </tr>
+                @foreach (var product in mdl.Products)
+                {
+                    <tr>
+                        <td>
+                            @if (product.Hand == Demo.Common.Enumerations.Hand.Left && product.Gender == Demo.Common.Enumerations.Gender.Womens)
+                            {
+                                <span class="text-danger"><b>@(product.Description)</b></span>
+                            }
+                            else if(product.Hand == Demo.Common.Enumerations.Hand.Left)
+                            {
+                                <span class="text-danger">@(product.Description)</span>
+                            }
+                            else if (product.Gender == Demo.Common.Enumerations.Gender.Womens)
+                            {
+                                <span><b>@(product.Description)</b></span>
+                            }
+                            else
+                            {
+                                <span>@(product.Description)</span>
+                            }
+                        </td>
+                        <td>
+                            @if(product.Inventory <= 3)
+                            {
+                                <span><i><b>@product.Inventory</b></i></span>
+                            }
+                            else
+                            {
+                                <span>@product.Inventory</span>
+                            }
+                        </td>
+                    </tr>
+                }
+            </table>
+        }
+    }
+</div>

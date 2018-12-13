@@ -1,0 +1,12 @@
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.ExtraService\bin\Debug\netstandard2.0\Demo.ExtraService.deps.json
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.ExtraService\bin\Debug\netstandard2.0\Demo.ExtraService.dll
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.ExtraService\bin\Debug\netstandard2.0\Demo.ExtraService.pdb
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.ExtraService\bin\Debug\netstandard2.0\Demo.Common.dll
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.ExtraService\bin\Debug\netstandard2.0\Demo.Common.pdb
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.ExtraService\obj\Debug\netstandard2.0\Demo.ExtraService.csprojResolveAssemblyReference.cache
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.ExtraService\obj\Debug\netstandard2.0\Demo.ExtraService.csproj.CoreCompileInputs.cache
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.ExtraService\obj\Debug\netstandard2.0\Demo.ExtraService.AssemblyInfoInputs.cache
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.ExtraService\obj\Debug\netstandard2.0\Demo.ExtraService.AssemblyInfo.cs
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.ExtraService\obj\Debug\netstandard2.0\Demo.ExtraService.csproj.CopyComplete
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.ExtraService\obj\Debug\netstandard2.0\Demo.ExtraService.dll
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.ExtraService\obj\Debug\netstandard2.0\Demo.ExtraService.pdb

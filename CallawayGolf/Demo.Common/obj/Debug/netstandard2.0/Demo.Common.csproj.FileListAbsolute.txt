@@ -1,0 +1,9 @@
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.Common\bin\Debug\netstandard2.0\Demo.Common.deps.json
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.Common\bin\Debug\netstandard2.0\Demo.Common.dll
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.Common\bin\Debug\netstandard2.0\Demo.Common.pdb
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.csprojResolveAssemblyReference.cache
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.csproj.CoreCompileInputs.cache
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.AssemblyInfoInputs.cache
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.AssemblyInfo.cs
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.dll
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.Common\obj\Debug\netstandard2.0\Demo.Common.pdb

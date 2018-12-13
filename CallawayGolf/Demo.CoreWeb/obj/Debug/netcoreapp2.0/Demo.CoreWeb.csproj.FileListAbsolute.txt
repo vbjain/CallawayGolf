@@ -1,0 +1,16 @@
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\bin\Debug\netcoreapp2.0\Demo.CoreWeb.deps.json
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\bin\Debug\netcoreapp2.0\Demo.CoreWeb.runtimeconfig.json
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\bin\Debug\netcoreapp2.0\Demo.CoreWeb.runtimeconfig.dev.json
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\bin\Debug\netcoreapp2.0\Demo.CoreWeb.dll
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\bin\Debug\netcoreapp2.0\Demo.CoreWeb.pdb
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\bin\Debug\netcoreapp2.0\Demo.Common.dll
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\bin\Debug\netcoreapp2.0\Demo.ExtraService.dll
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\bin\Debug\netcoreapp2.0\Demo.Common.pdb
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\bin\Debug\netcoreapp2.0\Demo.ExtraService.pdb
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\obj\Debug\netcoreapp2.0\Demo.CoreWeb.csprojResolveAssemblyReference.cache
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\obj\Debug\netcoreapp2.0\Demo.CoreWeb.csproj.CoreCompileInputs.cache
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\obj\Debug\netcoreapp2.0\Demo.CoreWeb.AssemblyInfoInputs.cache
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\obj\Debug\netcoreapp2.0\Demo.CoreWeb.AssemblyInfo.cs
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\obj\Debug\netcoreapp2.0\Demo.CoreWeb.csproj.CopyComplete
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\obj\Debug\netcoreapp2.0\Demo.CoreWeb.dll
+C:\Users\viral\Desktop\CallawayGolf\CallawayGolf\Demo.CoreWeb\obj\Debug\netcoreapp2.0\Demo.CoreWeb.pdb
